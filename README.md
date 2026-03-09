@@ -72,11 +72,6 @@ Structures
 
 Recursion
 
-Project Structure
-TripTrekker/
-│
-├── main.cpp        # Complete implementation
-├── README.md       # Project documentation
 How the System Works
 
 The city is modeled as a graph of 11 districts, where:
