@@ -60,34 +60,12 @@ Traveling Salesman Problem (Branch & Bound)	Minimum distance city tour
 Permutation-based TSP	Minimum time tour planning
 Greedy Activity Selection	Optimal day activity scheduling
 QuickSort	Sorting activities based on end time
-Data Structures Used
-
-Graph (Adjacency Matrix)
-
-Arrays
-
-Vectors
-
-Structures
-
-Recursion
+Data Structures Used , Graph (Adjacency Matrix) , Arrays , Vectors , Structures , Recursion
 
 How the System Works
 
-The city is modeled as a graph of 11 districts, where:
-
-Vertices represent districts
-
-Edges represent roads between districts
-
-Each edge stores:
-
-Distance
-
-Traffic condition
-
-Estimated travel time
-
+The city is modeled as a graph of 11 districts, where: Vertices represent districts , Edges represent roads between districts
+Each edge stores: Distance , Traffic condition , Estimated travel time
 Traffic conditions dynamically affect travel time using the formula:
 
 Time = Distance / Speed
